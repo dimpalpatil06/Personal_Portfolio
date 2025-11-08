@@ -47,18 +47,8 @@ This portfolio emphasizes:
 - Subtle motion and responsiveness  
 
 ---
-
-## 📷 Screenshots
-
-| Page | Preview |
-|------|----------|
-| 🏠 Home | ![Home Page](./Screen%20Shorts%20of%20Web%20pages/First%20Page.png) |
-| 👩‍💻 About Me | ![About Me](./Screen%20Shorts%20of%20Web%20pages/About%20me%20page.png) |
-| 🎨 Interests | ![Interest Page](./Screen%20Shorts%20of%20Web%20pages/Interest%20page.png) |
-| 📞 Contact | ![Contact Page](./Screen%20Shorts%20of%20Web%20pages/Contact%20me%20page.png) |
-| 🔗 Profile Links | ![Profile Links](./Screen%20Shorts%20of%20Web%20pages/Profile%20link%20page.png) |
-
----
+## Overview of Website
+Added Zip file of Screenshots in repository.
 
 ## 🚀 Hosting Guide
 
@@ -71,8 +61,7 @@ You can host this portfolio easily on:
 
 ## 👩‍🎨 Author
 
-**Designed and Developed by:** [Your Name]  
-📧 *[your.email@example.com]*  
+**Designed and Developed by:** Dimpal Patil 
 🎨 *Driven by creativity, simplicity, and passion for beautiful web design.*
 
 ---
